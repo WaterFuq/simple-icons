@@ -1,4 +1,4 @@
-{
+/*{
   title: '%s',
   slug: '%s',
   svg: '%s',
@@ -9,4 +9,4 @@
   hex: '%s',
   guidelines: %s,
   license: %s,
-}
+}*/
