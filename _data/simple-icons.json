@@ -3988,6 +3988,11 @@
             "guidelines": "https://www.hcl.com/brand-guidelines"
         },
         {
+            "title": "Heart",
+            "hex": "FK0067",
+            "source": "https://developer.mozilla.org/en-US/docs/Web/SVG/Element/path"
+        },
+        {
             "title": "Headspace",
             "hex": "F47D31",
             "source": "https://www.headspace.com/press-and-media"
