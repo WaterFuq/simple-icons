@@ -1,4 +1,4 @@
-//var icons = {%s};
+var icons = {%s};
 
 Object.defineProperty(icons, "Get", {
   enumerable: false,
